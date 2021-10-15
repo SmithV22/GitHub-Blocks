@@ -1,0 +1,135 @@
+.container{
+    height: 700px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    margin: 0 auto;
+    padding: 20px 15px;
+}
+
+.darkblue{
+    color: darkblue;
+    display:inline-block;
+    align: 0 auto;
+
+}
+
+#top{
+    height: 200px;
+    width:550px;
+    background-color: lightseagreen;
+    display:flex;
+    justify-content:space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    
+
+}
+.pic1 img{
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    position: relative;
+    size-adjust: 280px;
+    margin-bottom: 10px;
+    
+        
+}
+
+.pic2 img{
+    
+        width: 150px;
+        height: 150px;
+        display:inline-block;
+        position: relative;
+        size-adjust: 280px;
+            
+}
+
+.pic3 img{
+    
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    position: relative;
+    size-adjust: 280px;
+
+        
+}
+#middle{
+    height: 200px;
+    width: 550px;
+    background-color: plum;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.pic4 img{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom:10px;
+    
+}
+
+
+
+.pic6 img{
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    position: relative;
+    size-adjust: 20px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+
+}    
+
+
+#bottom{
+    height: 200px;
+    width: 550px;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pic7 img{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.pic8 img{
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    position: relative;
+    size-adjust: 280px;
+    margin-bottom: 10px;
+}
+.pic9 img{
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    position: relative;
+    size-adjust: 280px;
+    margin-bottom: 10px;
+}        
+#row {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
